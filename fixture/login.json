@@ -1,0 +1,10 @@
+{
+    "validUser": {
+      "username": "prathamthapa24@gmail.com",
+      "password": "pratham21"
+    },
+    "invalidUserPass": {
+      "username": "ragaya7048@hostlace.com",
+      "password": "Password1234"
+    }
+  }
